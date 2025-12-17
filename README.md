@@ -1,1 +1,12 @@
-https://github.com/Nigila10/Nigila-quote.git
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<<>>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Nigila Quote</h1>
+    <h2>Failure is the key to success</h2>
+</body>
+</html>
